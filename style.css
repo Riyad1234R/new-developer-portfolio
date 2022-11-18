@@ -9,3 +9,21 @@ h1 {
 .orange-color {
     color: orange;
 }
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 200%;
+    padding-left: 15%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: wheat;
+    font-weight: 700;
+    border-radius: 5px;
+}
